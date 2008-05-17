@@ -8,7 +8,17 @@ static PyObject* escape(PyObject *self, PyObject *args) {
 	int len;
 	char *old;
 
-	if (!PyArg_ParseTuple(args, "s#", &old, &len))
+	PyObject *arg;
+
+	if (!PyArg_ParseTuple(args, "O", &arg))
+		return NULL;
+
+	if (!PyString_Check(arg)) {
+		PyErr_SetString(PyExc_TypeError, "argument to escape should be a string");
+		return NULL;
+	}
+
+	if (PyString_AsStringAndSize(arg, &old, (Py_ssize_t *) &len))
 		return NULL;
 
 	/* We optimize for the common case, which is that no changes need to be
@@ -31,13 +41,14 @@ static PyObject* escape(PyObject *self, PyObject *args) {
 
 	/* The common, optimized case */
 	//if (!(amps | lt | gt | slash | quot))
-	if (!(amps | lt | gt))
-		return PyString_FromStringAndSize(old, len); //FIXME: can we just return a reference to the old string?
+	if (!(amps | lt | gt)) {
+		Py_INCREF(arg);
+		return arg;
+	}
 
 	//int newlen = len + (4 * amps) + (3 * (slash + lt + gt)) + (5 * quot);
 	int newlen = len + (4 * amps) + (3 * (lt + gt));
 	char* new_str = malloc(newlen);
-	printf("new length = %d\n", newlen);
 
 	int opos = 0;
 	int npos = 0;
