@@ -1,0 +1,5 @@
+These are some files that can be used as various test cases for the code (as
+well as for benchmarking). Explanation of what they are:
+ * yelp-front-page.txt -- html for the front page of yelp, lots of
+   replacements/alterations need to be made
+ * xanadu.txt -- no changes need to be made
