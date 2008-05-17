@@ -1,0 +1,2 @@
+Some string manipulation routines for Python. I expect these mostly to be
+oriented at processing things like HTML and user inputted text.
