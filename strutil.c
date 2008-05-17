@@ -16,25 +16,28 @@ static PyObject* escape(PyObject *self, PyObject *args) {
 	int amps = 0;
 	int lt = 0;
 	int gt = 0;
-	int slash = 0;
-	int quot = 0;
+	//int slash = 0;
+	//int quot = 0;
 	int i;
 	for (i = 0; i < len; i++) {
 		switch (old[i]) {
 			case '&': amps++; break;
 			case '<': lt++; break;
 			case '>': gt++; break;
-			case '\\': slash++; break;
-			case '\'': quot++; break;
+			//case '\\': slash++; break;
+			//case '\'': quot++; break;
 		}
 	}
 
 	/* The common, optimized case */
-	if (!(amps | lt | gt | slash | quot))
+	//if (!(amps | lt | gt | slash | quot))
+	if (!(amps | lt | gt))
 		return PyString_FromStringAndSize(old, len); //FIXME: can we just return a reference to the old string?
 
-	int newlen = len + (4 * amps) + (3 * (slash + lt + gt)) + (5 * quot);
+	//int newlen = len + (4 * amps) + (3 * (slash + lt + gt)) + (5 * quot);
+	int newlen = len + (4 * amps) + (3 * (lt + gt));
 	char* new_str = malloc(newlen);
+	printf("new length = %d\n", newlen);
 
 	int opos = 0;
 	int npos = 0;
@@ -42,8 +45,8 @@ static PyObject* escape(PyObject *self, PyObject *args) {
 	char *amp_sym = "&amp;";
 	char *lt_sym = "&lt;";
 	char *gt_sym = "&gt;";
-	char *slash_sym = "&#39;";
-	char *quot_sym = "&quot;";
+	//char *slash_sym = "&#39;";
+	//char *quot_sym = "&quot;";
 
 #define update_string(a,b) memcpy(new_str + npos, old + opos, i - opos); memcpy(new_str + npos + i - opos, a, b); npos += (i - opos) + b; opos = i + 1; break;
 
@@ -52,8 +55,8 @@ static PyObject* escape(PyObject *self, PyObject *args) {
 			case '&': update_string(amp_sym, 5);
 			case '<': update_string(lt_sym, 4);
 			case '>': update_string(gt_sym, 4);
-			case '\\': update_string(slash_sym, 4);
-			case '\"': update_string(quot_sym, 6);
+			//case '\\': update_string(slash_sym, 4);
+			//case '\"': update_string(quot_sym, 6);
 		}
 	}
 	if (opos < len)

@@ -1,2 +1,6 @@
 Some string manipulation routines for Python. I expect these mostly to be
 oriented at processing things like HTML and user inputted text.
+
+I've measured the escape routine to be about 2x faster than cgi.escape but my
+version is still fairly unoptimized so I hope to get even better than that. I
+think there are some bugs because I've had it segfault (but not reliably).
