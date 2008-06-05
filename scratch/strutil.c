@@ -48,7 +48,7 @@ char* tr(char *s, tr_arr *rules) {
 		}
 	}
 
-	/* Shortcut case */
+	/* Shortcut case, happens whenever no replacements need to be made */
 	if (r == 0) {
 		return strdup(s);
 	}
@@ -57,19 +57,12 @@ char* tr(char *s, tr_arr *rules) {
 	char *ns = malloc(s_len + alloc_extra);
 	ns[s_len + alloc_extra] = '\0';
 
-	int opos = 0;
-	int npos = 0;
-
 	int ps_pos = 0;
 	int ns_pos = 0;
-
-	int old_s_pos = 0;
 
 	for (i = 0; i < r; i++) {
 		int s_pos = rbuf[i] & ((1 << SHIFT_WIDTH) - 1);
 		int r_pos = rbuf[i] >> SHIFT_WIDTH;
-
-		/* all this part is broken */
 
 		int s_copy_chars = s_pos - ps_pos;
 		int r_copy_chars = rules->rlens[r_pos];
@@ -86,14 +79,15 @@ char* tr(char *s, tr_arr *rules) {
 
 	}
 
+	/* Copy the final chunk from s */
 	memcpy(ns + ns_pos, s + ps_pos, s_len - ps_pos);
 
 	return ns;
 }
 
 int main(int argc, char **argv) {
-	char *input_string = "This string & needs <> to be \"escapes\"& foo";
-	printf("input_string = %s\n\n", input_string);
+	char *input_string = "This string & needs <> to be \"escaped\"& foo";
+	printf("input_string = %s\n", input_string);
 
 	tr_arr a = { 4, "<>&\"", malloc(4 * sizeof(char *)), malloc(4 * sizeof(int)) };
 
@@ -107,12 +101,6 @@ int main(int argc, char **argv) {
 		a.rlens[i] = strlen(a.replacements[i]);
 	}
 
-	printf("the first replacement is %s\n", a.replacements[0]);
-	printf("the second replacement is %s\n", a.replacements[1]);
-	printf("the third replacement is %s\n", a.replacements[2]);
-	printf("the fourth replacement is %s\n", a.replacements[3]);
-
-	printf("calling tr...\n\n");
 	char *output_string = tr(input_string, &a);
 	printf("output_string = %s\n", output_string);
 	return 0;
