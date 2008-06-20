@@ -3,52 +3,67 @@
 #include <stdio.h>
 #include <Python.h>
 
+/* This is a highly optimized HTML escape method for strings. It directly
+ * accesses the character buffers of the input/ouput strings to minimize memory
+ * copies. Right now it only works with ASCII strings, but it should be simple
+ * to make it work with UTF-8 as well (since all replacement
+ * characters/sequences are ASCII). Getting it to work quickly with wide
+ * character encodings (e.g. UCS-2) would be a little bit more tricky but still
+ * doable.
+ */
 static PyObject* escape(PyObject *self, PyObject *args) {
 
-	int len;
-	char *old;
+	PyStringObject *input;
 
-	PyObject *arg;
-
-	if (!PyArg_ParseTuple(args, "O", &arg))
+	if (!PyArg_ParseTuple(args, "S", &input))
 		return NULL;
 
-	if (!PyString_Check(arg)) {
-		PyErr_SetString(PyExc_TypeError, "argument to escape should be a string");
-		return NULL;
-	}
-
-	if (PyString_AsStringAndSize(arg, &old, (Py_ssize_t *) &len))
-		return NULL;
+	Py_ssize_t len = PyString_GET_SIZE(input);
 
 	/* We optimize for the common case, which is that no changes need to be
 	 * made to the string. */
+	int i;
 	int amps = 0;
 	int lt = 0;
 	int gt = 0;
-	//int slash = 0;
-	//int quot = 0;
-	int i;
+	int slash = 0;
+	int quot = 0;
+
 	for (i = 0; i < len; i++) {
-		switch (old[i]) {
-			case '&': amps++; break;
-			case '<': lt++; break;
-			case '>': gt++; break;
-			//case '\\': slash++; break;
-			//case '\'': quot++; break;
+		switch (input->ob_sval[i]) {
+			case '&':
+				amps++;
+				break;
+			case '<':
+				lt++;
+				break;
+			case '>':
+				gt++;
+				break;
+			case '\\':
+				slash++;
+				break;
+			case '\'':
+				quot++;
+				break;
 		}
 	}
 
-	/* The common, optimized case */
-	//if (!(amps | lt | gt | slash | quot))
-	if (!(amps | lt | gt)) {
-		Py_INCREF(arg);
-		return arg;
+	/* The common, optimized case. When the input string doesn't have any
+	 * characters that need to be escaped just return a reference to the
+	 * original string. */
+	if (!(amps || lt || gt || slash || quot)) {
+		Py_INCREF(input);
+		return (PyObject *) input;
 	}
 
-	//int newlen = len + (4 * amps) + (3 * (slash + lt + gt)) + (5 * quot);
-	int newlen = len + (4 * amps) + (3 * (lt + gt));
-	char* new_str = malloc(newlen);
+	/* The size of the new string */
+	Py_ssize_t newlen = len + (4 * amps) + (3 * (slash + lt + gt)) + (5 * quot);
+	PyStringObject *new_pystr = (PyStringObject *) PyString_FromStringAndSize(NULL, newlen);
+
+	/* Pointers to the internal buffers of the Python string objects */
+	char *old = input->ob_sval;
+	char *new_str = new_pystr->ob_sval;
 
 	int opos = 0;
 	int npos = 0;
@@ -56,27 +71,29 @@ static PyObject* escape(PyObject *self, PyObject *args) {
 	char *amp_sym = "&amp;";
 	char *lt_sym = "&lt;";
 	char *gt_sym = "&gt;";
-	//char *slash_sym = "&#39;";
-	//char *quot_sym = "&quot;";
+	char *slash_sym = "&#39;";
+	char *quot_sym = "&quot;";
 
-#define update_string(a,b) memcpy(new_str + npos, old + opos, i - opos); memcpy(new_str + npos + i - opos, a, b); npos += (i - opos) + b; opos = i + 1; break;
+#define UPDATE_STRING(a,b)\
+	Py_MEMCPY(new_str + npos, old + opos, i - opos);\
+	Py_MEMCPY(new_str + npos + i - opos, a, b);\
+	npos += (i - opos) + b;\
+	opos = i + 1;\
+	break;
 
 	for (i = 0; i < len; i++) {
 		switch (old[i]) {
-			case '&': update_string(amp_sym, 5);
-			case '<': update_string(lt_sym, 4);
-			case '>': update_string(gt_sym, 4);
-			//case '\\': update_string(slash_sym, 4);
-			//case '\"': update_string(quot_sym, 6);
+			case '&':  UPDATE_STRING(amp_sym, 5);
+			case '<':  UPDATE_STRING(lt_sym, 4);
+			case '>':  UPDATE_STRING(gt_sym, 4);
+			case '\\': UPDATE_STRING(slash_sym, 5);
+			case '\"': UPDATE_STRING(quot_sym, 6);
 		}
 	}
 	if (opos < len)
-		memcpy(new_str + npos, old + opos, len - opos);
+		Py_MEMCPY(new_str + npos, old + opos, len - opos);
 
-	/* null terminate the string */
-	new_str[newlen] = '\0';
-
-	return PyString_FromStringAndSize(new_str, newlen);
+	return (PyObject *) new_pystr;
 }
 
 PyDoc_STRVAR(module_doc, "String utilities.");
