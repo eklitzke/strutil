@@ -58,7 +58,7 @@ static PyObject* escape(PyObject *self, PyObject *args) {
 	}
 
 	/* The size of the new string */
-	Py_ssize_t newlen = len + (4 * amps) + (3 * (slash + lt + gt)) + (5 * quot);
+	Py_ssize_t newlen = len + (4 * (amps + slash)) + (3 * (lt + gt)) + (5 * quot);
 	PyStringObject *new_pystr = (PyStringObject *) PyString_FromStringAndSize(NULL, newlen);
 
 	/* Pointers to the internal buffers of the Python string objects */
