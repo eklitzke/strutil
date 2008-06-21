@@ -1,8 +1,10 @@
 import time
 import strutil
 import cgi
+import os
+import test
 
-text = open('/Users/evan/code/strutil/test/xanadu.txt').read()
+text = unicode(open('xanadu.txt').read())
 
 print 'xanadu'
 print '------'
@@ -12,19 +14,23 @@ strutil.escape(text)
 print 'fast = %s' % (time.time() - t)
 
 t = time.time()
-cgi.escape(text)
+test.slow_escape(text)
 print 'slow = %s' % (time.time() - t)
 
-text = open('/Users/evan/code/strutil/test/yelp-front-page.txt').read()
+text = unicode(open('yelp.txt').read())
 
+# make the unicode string object really big so lots of replacements will happen
+for x in range(7):
+	text += text
+
+print
 print 'yelp html'
-print '---------'
+print '------------'
 
 t = time.time()
-strutil.escape(text)
+f = strutil.escape(text)
 print 'fast = %s' % (time.time() - t)
 
 t = time.time()
-cgi.escape(text)
+s = test.slow_escape(text)
 print 'slow = %s' % (time.time() - t)
-

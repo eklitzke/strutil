@@ -1,7 +1,6 @@
 /* This module is just a proof of concept. It is not fully tested. Do not use it in production. */
 
-#include <Python.h>
-//#include <string.h>
+#include <Python.h> /* includes strutil.h */
 
 /* This assumes little-endianness */
 #define ucs_amp		(Py_UNICODE) '&'
