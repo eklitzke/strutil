@@ -1,9 +1,7 @@
 /* This module is just a proof of concept. It is not fully tested. Do not use it in production. */
 
-#include <string.h>
-#include <stdlib.h>
 #include <Python.h>
-
+//#include <string.h>
 
 /* This assumes little-endianness */
 #define ucs_amp		(Py_UNICODE) '&'
@@ -18,6 +16,26 @@ static Py_UNICODE *gt_buf;
 static Py_UNICODE *slash_buf;
 static Py_UNICODE *quot_buf;
 
+/* Forward declarations */
+static PyObject* escape_str(PyStringObject *input);
+static PyObject* escape_uni(PyUnicodeObject *input);
+
+static PyObject* escape(PyObject *self, PyObject *args) {
+
+	PyObject *input;
+	if (!PyArg_ParseTuple(args, "O", &input))
+		return NULL;
+
+	if (PyString_CheckExact(input))
+		return escape_str((PyStringObject *) input);
+
+	if (PyUnicode_CheckExact(input))
+		return escape_uni((PyUnicodeObject *) input);
+
+	PyErr_SetString(PyExc_TypeError, "argument to escape must be a string or unicode object");
+	return NULL;
+}
+
 /* This is a highly optimized HTML escape method for strings. It directly
  * accesses the character buffers of the input/ouput strings to minimize memory
  * copies. Right now it only works with ASCII strings, but it should be simple
@@ -26,12 +44,7 @@ static Py_UNICODE *quot_buf;
  * character encodings (e.g. UCS-2) would be a little bit more tricky but still
  * doable.
  */
-static PyObject* escape_str(PyObject *self, PyObject *args) {
-
-	PyStringObject *input;
-
-	if (!PyArg_ParseTuple(args, "S", &input))
-		return NULL;
+static PyObject* escape_str(PyStringObject *input) {
 
 	Py_ssize_t len = PyString_GET_SIZE(input);
 
@@ -111,12 +124,7 @@ static PyObject* escape_str(PyObject *self, PyObject *args) {
 	return (PyObject *) new_pystr;
 }
 
-static PyObject* escape_uni(PyObject *self, PyObject *args) {
-
-	PyUnicodeObject *input;
-
-	if (!PyArg_ParseTuple(args, "U", &input))
-		return NULL;
+static PyObject* escape_uni(PyUnicodeObject *input) {
 
 	/* Points to the internal Py_UNICODE buffer of the input object */
 	Py_UNICODE *input_buf = PyUnicode_AS_UNICODE(input);;
@@ -194,8 +202,7 @@ static PyObject* escape_uni(PyObject *self, PyObject *args) {
 PyDoc_STRVAR(module_doc, "String utilities.");
 
 static PyMethodDef strutil_methods[] = {
-	{"escape_str", escape_str, METH_VARARGS, "HTML-escape a string"},
-	{"escape_uni", escape_uni, METH_VARARGS, "HTML-escape a string"},
+	{"escape", escape, METH_VARARGS, "HTML-escape a string"},
 	{NULL, NULL, 0, NULL} /* Sentinel */
 };
 
