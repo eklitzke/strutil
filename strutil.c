@@ -8,7 +8,7 @@
 #define ucs_lt		(Py_UNICODE) '<'
 #define ucs_gt		(Py_UNICODE) '>'
 #define ucs_slash	(Py_UNICODE) '\\'
-#define ucs_quot	(Py_UNICODE) '\''
+#define ucs_quot	(Py_UNICODE) '\"'
 
 static Py_UNICODE *amp_buf;
 static Py_UNICODE *lt_buf;
@@ -71,7 +71,7 @@ static PyObject* escape_str(PyStringObject *input) {
 			case '\\':
 				slash++;
 				break;
-			case '\'':
+			case '\"':
 				quot++;
 				break;
 		}
@@ -115,7 +115,7 @@ static PyObject* escape_str(PyStringObject *input) {
 			case '<':  UPDATE_STRING(lt_sym, 4);
 			case '>':  UPDATE_STRING(gt_sym, 4);
 			case '\\': UPDATE_STRING(slash_sym, 5);
-			case '\"': UPDATE_STRING(quot_sym, 6);
+			case '"':  UPDATE_STRING(quot_sym, 6);
 		}
 	}
 	if (opos < len)
