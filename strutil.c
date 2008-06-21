@@ -1,7 +1,22 @@
+/* This module is just a proof of concept. It is not fully tested. Do not use it in production. */
+
 #include <string.h>
 #include <stdlib.h>
-#include <stdio.h>
 #include <Python.h>
+
+
+/* This assumes little-endianness */
+#define ucs_amp		(Py_UNICODE) '&'
+#define ucs_lt		(Py_UNICODE) '<'
+#define ucs_gt		(Py_UNICODE) '>'
+#define ucs_slash	(Py_UNICODE) '\\'
+#define ucs_quot	(Py_UNICODE) '\''
+
+static Py_UNICODE *amp_buf;
+static Py_UNICODE *lt_buf;
+static Py_UNICODE *gt_buf;
+static Py_UNICODE *slash_buf;
+static Py_UNICODE *quot_buf;
 
 /* This is a highly optimized HTML escape method for strings. It directly
  * accesses the character buffers of the input/ouput strings to minimize memory
@@ -11,7 +26,7 @@
  * character encodings (e.g. UCS-2) would be a little bit more tricky but still
  * doable.
  */
-static PyObject* escape(PyObject *self, PyObject *args) {
+static PyObject* escape_str(PyObject *self, PyObject *args) {
 
 	PyStringObject *input;
 
@@ -68,11 +83,11 @@ static PyObject* escape(PyObject *self, PyObject *args) {
 	int opos = 0;
 	int npos = 0;
 
-	char *amp_sym = "&amp;";
-	char *lt_sym = "&lt;";
-	char *gt_sym = "&gt;";
-	char *slash_sym = "&#39;";
-	char *quot_sym = "&quot;";
+	static char *amp_sym = "&amp;";
+	static char *lt_sym = "&lt;";
+	static char *gt_sym = "&gt;";
+	static char *slash_sym = "&#39;";
+	static char *quot_sym = "&quot;";
 
 #define UPDATE_STRING(a,b)\
 	Py_MEMCPY(new_str + npos, old + opos, i - opos);\
@@ -96,16 +111,117 @@ static PyObject* escape(PyObject *self, PyObject *args) {
 	return (PyObject *) new_pystr;
 }
 
+static PyObject* escape_uni(PyObject *self, PyObject *args) {
+
+	PyUnicodeObject *input;
+
+	if (!PyArg_ParseTuple(args, "U", &input))
+		return NULL;
+
+	/* Points to the internal Py_UNICODE buffer of the input object */
+	Py_UNICODE *input_buf = PyUnicode_AS_UNICODE(input);;
+
+	/* This is the number of characters in the string */
+	Py_ssize_t len = PyUnicode_GET_SIZE(input);
+
+	/* We optimize for the common case, which is that no changes need to be
+	 * made to the string. */
+	int i;
+	int amps = 0;
+	int lt = 0;
+	int gt = 0;
+	int slash = 0;
+	int quot = 0;
+
+	for (i = 0; i < len; i++) {
+		switch (input_buf[i]) {
+			case ucs_amp:
+				amps++;
+				break;
+			case ucs_lt:
+				lt++;
+				break;
+			case ucs_gt:
+				gt++;
+				break;
+			case ucs_slash:
+				slash++;
+				break;
+			case ucs_quot:
+				quot++;
+				break;
+		}
+	}
+
+	/* The common, optimized case. When the input string doesn't have any
+	 * characters that need to be escaped just return a reference to the
+	 * original string. */
+	if (!(amps || lt || gt || slash || quot)) {
+		Py_INCREF(input);
+		return (PyObject *) input;
+	}
+
+	Py_ssize_t newlen = len + ((4 * (amps + slash)) + (3 * (lt + gt)) + (5 * quot));
+	PyUnicodeObject * new_pyuni = (PyUnicodeObject *) PyUnicode_FromUnicode(NULL, newlen);
+	Py_UNICODE *new_buf = PyUnicode_AS_UNICODE(new_pyuni);
+
+	int opos = 0;
+	int npos = 0;
+
+#define UPDATE_UNI(a, b)\
+	Py_MEMCPY(new_buf + npos, input_buf + opos, (i - opos) * sizeof(Py_UNICODE));\
+	Py_MEMCPY(new_buf + (i + npos - opos), a, b * sizeof(Py_UNICODE));\
+	npos += (i - opos) + b;\
+	opos = i + 1;\
+	break;
+
+	for (i = 0; i < len; i++) {
+		switch (input_buf[i]) {
+			case ucs_amp:   UPDATE_UNI(amp_buf, 5);
+			case ucs_lt:    UPDATE_UNI(lt_buf, 4);
+			case ucs_gt:    UPDATE_UNI(gt_buf, 4);
+			case ucs_slash: UPDATE_UNI(slash_buf, 5);
+			case ucs_quot:  UPDATE_UNI(quot_buf, 6);
+		}
+	}
+	if (opos < len) {
+		Py_MEMCPY(new_buf + npos, input_buf + opos, (len - opos) * sizeof(Py_UNICODE));
+	}
+
+	return (PyObject *) new_pyuni;
+}
+
 PyDoc_STRVAR(module_doc, "String utilities.");
 
 static PyMethodDef strutil_methods[] = {
-	{"escape", escape, METH_VARARGS, "HTML-escape a string"},
+	{"escape_str", escape_str, METH_VARARGS, "HTML-escape a string"},
+	{"escape_uni", escape_uni, METH_VARARGS, "HTML-escape a string"},
 	{NULL, NULL, 0, NULL} /* Sentinel */
 };
+
+int add_unicode_constant(PyObject *m, const char *name, const char *str, Py_UNICODE **g)
+{
+	PyObject *unistr;
+	if ((unistr = PyUnicode_DecodeASCII(str, strlen(str), NULL)) == NULL)
+		return -1;
+	*g = PyUnicode_AS_UNICODE(unistr); /* this is a borrowed reference! */
+	return PyModule_AddObject(m, name, unistr);
+}
 
 PyMODINIT_FUNC initstrutil(void) 
 {
     PyObject* m;
     m = Py_InitModule3("strutil", strutil_methods, module_doc);
 
+	/* This is kind of a hack. Basically we want unicode versions of the
+	 * replacement buffers to exist somewhere in global scope so we don't need
+	 * to reconstruct them in the escaping routines. This is done by creating
+	 * some module-level variables and stealing references to their internal
+	 * unicode buffers.
+	 */
+	add_unicode_constant(m, "_UNI_AMP", "&amp;", &amp_buf);
+	add_unicode_constant(m, "_UNI_LT", "&lt;", &lt_buf);
+	add_unicode_constant(m, "_UNI_GT", "&gt;", &gt_buf);
+	add_unicode_constant(m, "_UNI_SLASH", "&#39;", &slash_buf);
+	add_unicode_constant(m, "_UNI_QUOT", "&quot;", &quot_buf);
 }
