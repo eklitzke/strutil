@@ -105,16 +105,25 @@ static PyObject* escape_str(PyStringObject *input) {
 	Py_MEMCPY(new_str + npos, old + opos, i - opos);\
 	Py_MEMCPY(new_str + npos + i - opos, a, b);\
 	npos += (i - opos) + b;\
-	opos = i + 1;\
-	break;
+	opos = i + 1;
 
 	for (i = 0; i < len; i++) {
 		switch (old[i]) {
-			case '&':  UPDATE_STRING(amp_sym, 5);
-			case '<':  UPDATE_STRING(lt_sym, 4);
-			case '>':  UPDATE_STRING(gt_sym, 4);
-			case '\\': UPDATE_STRING(slash_sym, 5);
-			case '"':  UPDATE_STRING(quot_sym, 6);
+			case '&':
+				UPDATE_STRING(amp_sym, 5);
+				break;
+			case '<':
+				UPDATE_STRING(lt_sym, 4);
+				break;
+			case '>':
+				UPDATE_STRING(gt_sym, 4);
+				break;
+			case '\\':
+				UPDATE_STRING(slash_sym, 5);
+				break;
+			case '"':
+				UPDATE_STRING(quot_sym, 6);
+				break;
 		}
 	}
 	if (opos < len)
@@ -179,16 +188,25 @@ static PyObject* escape_uni(PyUnicodeObject *input) {
 	Py_MEMCPY(new_buf + npos, input_buf + opos, (i - opos) * sizeof(Py_UNICODE));\
 	Py_MEMCPY(new_buf + (i + npos - opos), a, b * sizeof(Py_UNICODE));\
 	npos += (i - opos) + b;\
-	opos = i + 1;\
-	break;
+	opos = i + 1;
 
 	for (i = 0; i < len; i++) {
 		switch (input_buf[i]) {
-			case ucs_amp:   UPDATE_UNI(amp_buf, 5);
-			case ucs_lt:    UPDATE_UNI(lt_buf, 4);
-			case ucs_gt:    UPDATE_UNI(gt_buf, 4);
-			case ucs_slash: UPDATE_UNI(slash_buf, 5);
-			case ucs_quot:  UPDATE_UNI(quot_buf, 6);
+			case ucs_amp:
+				UPDATE_UNI(amp_buf, 5);
+				break;
+			case ucs_lt:
+				UPDATE_UNI(lt_buf, 4);
+				break;
+			case ucs_gt:
+				UPDATE_UNI(gt_buf, 4);
+				break;
+			case ucs_slash:
+				UPDATE_UNI(slash_buf, 5);
+				break;
+			case ucs_quot:
+				UPDATE_UNI(quot_buf, 6);
+				break;
 		}
 	}
 	if (opos < len) {
