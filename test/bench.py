@@ -3,6 +3,7 @@ import strutil
 import cgi
 import os
 import test
+import codecs
 
 text = unicode(open('xanadu.txt').read())
 
@@ -34,3 +35,22 @@ print 'fast = %s' % (time.time() - t)
 t = time.time()
 s = test.slow_escape(text)
 print 'slow = %s' % (time.time() - t)
+
+text = codecs.open('khmer.txt', encoding='utf-8').read()
+
+# make the unicode string object really big so lots of replacements will happen
+for x in range(7):
+	text += text
+
+print
+print 'wiki khmer html'
+print '------------'
+
+t = time.time()
+f = strutil.escape(text)
+print 'fast = %s' % (time.time() - t)
+
+t = time.time()
+s = test.slow_escape(text)
+print 'slow = %s' % (time.time() - t)
+

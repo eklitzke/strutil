@@ -1,0 +1,909 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+				<meta name="keywords" content="Khmer language,Abugida,Alveolar tap,Alveolar trill,Approximant consonant,Australia,Austro-Asiatic languages,Austroasiatic languages,Bahnaric languages,Battambang Province,Brahmic family" />
+		<link rel="alternate" type="application/x-wiki" title="Edit this page" href="http://en.wikipedia.org/w/index.php?title=Khmer_language&amp;action=edit" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="apple-touch-icon" href="http://en.wikipedia.org/apple-touch-icon.png" />
+		<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+		<link rel="copyright" href="http://www.gnu.org/copyleft/fdl.html" />
+<link rel="alternate" type="application/rss+xml" title="Wikipedia RSS Feed" href="http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&amp;feed=rss" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom Feed" href="http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+		<title>Khmer language - Wikipedia, the free encyclopedia</title>
+		<style type="text/css" media="screen, projection">/*<![CDATA[*/
+			@import "/skins-1.5/common/shared.css?156";
+			@import "/skins-1.5/monobook/main.css?156";
+		/*]]>*/</style>
+		<link rel="stylesheet" type="text/css" media="print" href="/skins-1.5/common/commonPrint.css?156" />
+		<!--[if lt IE 5.5000]><style type="text/css">@import "/skins-1.5/monobook/IE50Fixes.css?156";</style><![endif]-->
+		<!--[if IE 5.5000]><style type="text/css">@import "/skins-1.5/monobook/IE55Fixes.css?156";</style><![endif]-->
+		<!--[if IE 6]><style type="text/css">@import "/skins-1.5/monobook/IE60Fixes.css?156";</style><![endif]-->
+		<!--[if IE 7]><style type="text/css">@import "/skins-1.5/monobook/IE70Fixes.css?156";</style><![endif]-->
+		<!--[if lt IE 7]><script type="text/javascript" src="/skins-1.5/common/IEFixes.js?156"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+		
+		<script type= "text/javascript">/*<![CDATA[*/
+var skin = "monobook";
+var stylepath = "/skins-1.5";
+var wgArticlePath = "/wiki/$1";
+var wgScriptPath = "/w";
+var wgScript = "/w/index.php";
+var wgVariantArticlePath = false;
+var wgActionPaths = [];
+var wgServer = "http://en.wikipedia.org";
+var wgCanonicalNamespace = "";
+var wgCanonicalSpecialPageName = false;
+var wgNamespaceNumber = 0;
+var wgPageName = "Khmer_language";
+var wgTitle = "Khmer language";
+var wgAction = "view";
+var wgArticleId = "5216";
+var wgIsArticle = true;
+var wgUserName = null;
+var wgUserGroups = null;
+var wgUserLanguage = "en";
+var wgContentLanguage = "en";
+var wgBreakFrames = false;
+var wgCurRevisionId = "217780200";
+var wgVersion = "1.13alpha";
+var wgEnableAPI = true;
+var wgEnableWriteAPI = false;
+var wgMWSuggestTemplate = "http://en.wikipedia.org/w/api.php?action=opensearch\x26search={searchTerms}\x26namespace={namespaces}";
+var wgDBname = "enwiki";
+var wgSearchNamespaces = [0];
+var wgMWSuggestMessages = ["with suggestions", "no suggestions"];
+var wgRestrictionEdit = [];
+var wgRestrictionMove = [];
+/*]]>*/</script>
+                
+		<script type="text/javascript" src="/skins-1.5/common/wikibits.js?156"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="/skins-1.5/common/ajax.js?156"></script>
+		<script type="text/javascript" src="/skins-1.5/common/mwsuggest.js?156"></script>
+		<script type="text/javascript" src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
+		<style type="text/css">/*<![CDATA[*/
+@import "/w/index.php?title=MediaWiki:Common.css&usemsgcache=yes&action=raw&ctype=text/css&smaxage=2678400";
+@import "/w/index.php?title=MediaWiki:Monobook.css&usemsgcache=yes&action=raw&ctype=text/css&smaxage=2678400";
+@import "/w/index.php?title=-&action=raw&gen=css&maxage=2678400";
+/*]]>*/</style>
+	</head>
+<body class="mediawiki ns-0 ltr page-Khmer_language">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+		<div id="siteNotice"><script type="text/javascript" language="JavaScript">
+<!--
+document.writeln("\x3cp\x3e\x3c/p\x3e\n");
+-->
+</script></div>		<h1 class="firstHeading">Khmer language</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From Wikipedia, the free encyclopedia</h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<table class="infobox" style="width:22em; margin-top:0.75em; background:#f4f4f4; text-align:left; font-size:90%;" cellpadding="2">
+<tr>
+<th colspan="3" style="text-align: center; font-size:120%; color: black; background-color: lightcoral;">Khmer<br />
+<a href="/wiki/Image:PhiesaKhmae.gif" class="image" title="Image:PhiesaKhmae.gif"><img alt="Image:PhiesaKhmae.gif" src="http://upload.wikimedia.org/wikipedia/en/2/20/PhiesaKhmae.gif" width="61" height="24" border="0" /></a> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[pʰiːəsaː kʰmaːe]</span></th>
+</tr>
+<tr>
+<td style="padding-left: 0.5em;">Spoken&#160;in:</td>
+<td colspan="2" style="padding-left: 0.5em;"><a href="/wiki/Cambodia" title="Cambodia">Cambodia</a>, <a href="/wiki/Vietnam" title="Vietnam">Vietnam</a>, <a href="/wiki/Thailand" title="Thailand">Thailand</a>, the <a href="/wiki/People%27s_Republic_of_China" title="People's Republic of China">People's Republic of China</a>, <a href="/wiki/United_States" title="United States">USA</a>, <a href="/wiki/France" title="France">France</a>, <a href="/wiki/Australia" title="Australia">Australia</a></td>
+</tr>
+<tr>
+<td style="padding-left: 0.5em;">Total&#160;speakers:</td>
+<td colspan="2" style="padding-left: 0.5em;">15.7 to 21.6 million (2004)<br />
+<ul>
+<li>Native speakers: 14.7 to 20.6 million
+<ul>
+<li>Cambodia: 12.1 million</li>
+<li>Vietnam: 1,055,174<sup id="cite_ref-0" class="reference"><a href="#cite_note-0" title="">[1]</a></sup></li>
+<li>Thailand: 1.2 million</li>
+<li>USA: 190,000</li>
+<li>France: ca. 50,000</li>
+<li>Australia: 22,000</li>
+<li>Canada: 16,500</li>
+</ul>
+</li>
+<li>2nd language speakers: 1 million in Cambodia</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 0.5em;"><a href="/wiki/Language_family" title="Language family">Language family</a>:</td>
+<td colspan="2" style="padding-left: 0.5em; text-align: left;"><a href="/wiki/Austro-Asiatic_languages" title="Austro-Asiatic languages">Austro-Asiatic</a><br />
+<span style="font-size:66%;">&#160;</span><a href="/wiki/Mon-Khmer_languages" title="Mon-Khmer languages">Mon-Khmer</a><br />
+<span style="font-size:66%;">&#160;&#160;</span><a href="/w/index.php?title=Eastern_Mon-Khmer&amp;action=edit&amp;redlink=1" class="new" title="Eastern Mon-Khmer (page does not exist)">Eastern Mon-Khmer</a><br />
+<span style="font-size:66%;">&#160;&#160;&#160;</span><b>Khmer</b>&#160;</td>
+</tr>
+<tr>
+<td style="padding-left: 0.5em;"><a href="/wiki/Writing_system" title="Writing system">Writing system</a>:</td>
+<td colspan="2" style="padding-left: 0.5em;"><a href="/wiki/Khmer_script" title="Khmer script">Khmer script</a> (<a href="/wiki/Abugida" title="Abugida">abugida</a>)&#160;</td>
+</tr>
+<tr>
+<th colspan="3" style="text-align: center; color: black; background-color: lightcoral;">Official status</th>
+</tr>
+<tr>
+<td style="padding-left: 0.5em;">Official language in:</td>
+<td colspan="2" style="padding-left: 0.5em;"><a href="/wiki/Cambodia" title="Cambodia">Cambodia</a></td>
+</tr>
+<tr>
+<td style="padding-left: 0.5em;"><a href="/wiki/List_of_language_regulators" title="List of language regulators">Regulated by</a>:</td>
+<td colspan="2" style="padding-left: 0.5em;"><i>no official regulation</i></td>
+</tr>
+<tr>
+<th colspan="3" style="text-align: center; color: black; background-color: lightcoral;">Language codes</th>
+</tr>
+<tr>
+<td style="padding-left: 0.5em;"><a href="/wiki/ISO_639-1" title="ISO 639-1">ISO 639-1</a>:</td>
+<td colspan="2" style="padding-left: 0.5em;"><tt>km</tt></td>
+</tr>
+<tr>
+<td style="padding-left: 0.5em;"><a href="/wiki/ISO_639-2" title="ISO 639-2">ISO 639-2</a>:</td>
+<td colspan="2" style="padding-left: 0.5em;"><tt>khm</tt></td>
+</tr>
+<tr>
+<td style="padding-left: 0.5em;"><a href="/wiki/ISO_639-3" title="ISO 639-3">ISO 639-3</a>:</td>
+<td colspan="2" style="padding-left: 0.5em;">either:<br />
+<tt><a href="http://www.sil.org/iso639-3/documentation.asp?id=khm" class="external text" title="http://www.sil.org/iso639-3/documentation.asp?id=khm" rel="nofollow">khm</a></tt>&#160;–&#160;<strong class="selflink">Central Khmer</strong><br />
+<tt><a href="http://www.sil.org/iso639-3/documentation.asp?id=kxm" class="external text" title="http://www.sil.org/iso639-3/documentation.asp?id=kxm" rel="nofollow">kxm</a></tt>&#160;–&#160;<strong class="selflink">Northern Khmer</strong></td>
+</tr>
+<tr>
+<td colspan="3">
+<table class="expansion" style="border:none; border-width:0px; text-align: left; vertical-align: top; padding: .1em; margin-bottom: 2px; margin-top: 2px; font-size: 95%; line-height:1.2; background-color: #f7f8ff;" width="300">
+<tr>
+<td style="border:none; border-width:0px; vertical-align: middle">
+<div class="center">
+<div class="floatnone"><span><a href="/wiki/Image:Example.of.complex.text.rendering.svg" class="image" title="Indic script"><img alt="Indic script" src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Example.of.complex.text.rendering.svg/58px-Example.of.complex.text.rendering.svg.png" width="58" height="28" border="0" /></a></span></div>
+</div>
+</td>
+<td style="border:none; border-width:0px;"><small><b>This page contains <a href="/wiki/Brahmic_family" class="mw-redirect" title="Brahmic family">Indic text</a></b>. Without rendering support you may see irregular vowel positioning and a lack of conjuncts. <a href="/wiki/Help:Multilingual_support_%28Indic%29" title="Help:Multilingual support (Indic)">More...</a></small></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<div class="boilerplate metadata ipanotice" style="float:right; clear:right; width:15em; background-color:#f3f9ff; border:1px solid #aaa; padding:0 0.5em; margin:0.5em; font-size:80%;">
+<p>Note: This page or section contains <a href="/wiki/International_Phonetic_Alphabet" title="International Phonetic Alphabet">IPA</a> phonetic symbols in <a href="/wiki/Unicode" title="Unicode">Unicode</a>. See <a href="/wiki/Help:IPA" title="Help:IPA">Help:IPA</a> for a pronunciation key.</p>
+</div>
+<p><b>Khmer</b> (ភាសាខ្មែរ), or <b>Cambodian</b>, is the language of the <a href="/wiki/Khmer_people" title="Khmer people">Khmer people</a> and the official language of <a href="/wiki/Cambodia" title="Cambodia">Cambodia</a>. One of the more prominent <a href="/wiki/Austroasiatic_languages" class="mw-redirect" title="Austroasiatic languages">Austroasiatic languages</a> with speakers in the tens of millions, it is the second most widely spoken Austroasiatic language. Khmer has been considerably influenced by <a href="/wiki/Sanskrit" title="Sanskrit">Sanskrit</a> and <a href="/wiki/P%C4%81li" class="mw-redirect" title="Pāli">Pali</a>, especially in the royal and religious <a href="/wiki/Register_%28linguistics%29" class="mw-redirect" title="Register (linguistics)">registers</a>, through the vehicles of <a href="/wiki/Hinduism" title="Hinduism">Hinduism</a> and <a href="/wiki/Buddhism" title="Buddhism">Buddhism</a>. It is also the earliest recorded and earliest written language of the <a href="/wiki/Mon-Khmer" class="mw-redirect" title="Mon-Khmer">Mon-Khmer</a> family, predating <a href="/wiki/Mon_language" title="Mon language">Mon</a> and by a significant margin <a href="/wiki/Vietnamese_Language" class="mw-redirect" title="Vietnamese Language">Vietnamese</a>. As a result of geographic proximity, the Khmer language has affected, and also been affected by, <a href="/wiki/Thai_language" title="Thai language">Thai</a>, <a href="/wiki/Lao_language" title="Lao language">Lao</a>, <a href="/wiki/Vietnamese_language" title="Vietnamese language">Vietnamese</a> and <a href="/wiki/Cham_language" title="Cham language">Cham</a> which all form a <a href="/wiki/Sprachbund" title="Sprachbund">sprachbund</a> in peninsular <a href="/wiki/Southeast_Asia" title="Southeast Asia">Southeast Asia</a>.<sup id="cite_ref-cl_1-0" class="reference"><a href="#cite_note-cl-1" title="">[2]</a></sup></p>
+<p>Khmer has its own script, an <a href="/wiki/Abugida" title="Abugida">abugida</a> known in Khmer as <a href="/wiki/Khmer_Script" class="mw-redirect" title="Khmer Script">Aksar Khmer</a>.</p>
+<p>Khmer differs from neighboring languages such as Thai, Lao and Vietnamese in that it is not a <a href="/wiki/Tonal_language" title="Tonal language">tonal language</a>. All its main dialects that are mutually intelligible:</p>
+<ul>
+<li><b>Battambang</b>, spoken in northern Cambodia.</li>
+<li><b>Phnom Penh</b>, the capital dialect and is also spoken in surrounding provinces.</li>
+<li><b><a href="/wiki/Northern_Khmer" title="Northern Khmer">Northern Khmer</a></b>, also known as <i>Khmer Surin</i>, spoken by ethnic Khmer native to Northeast Thailand</li>
+<li><b><a href="/wiki/Khmer_Krom" title="Khmer Krom">Khmer Krom</a></b> or <b>Southern Khmer</b>, spoken by the indigenous Khmer population of the Mekong Delta.</li>
+<li><b>Cardamom Khmer</b>, an archaic form spoken by a small population in the <a href="/wiki/Cardamom_Mountains" title="Cardamom Mountains">Cardamom Mountains</a> of western Cambodia.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2" title="">[3]</a></sup></li>
+</ul>
+<table id="toc" class="toc" summary="Contents">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1"><a href="#Phonology"><span class="tocnumber">2</span> <span class="toctext">Phonology</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Consonants"><span class="tocnumber">2.1</span> <span class="toctext">Consonants</span></a></li>
+<li class="toclevel-2"><a href="#Vowel_nuclei"><span class="tocnumber">2.2</span> <span class="toctext">Vowel nuclei</span></a></li>
+<li class="toclevel-2"><a href="#Syllable_structure"><span class="tocnumber">2.3</span> <span class="toctext">Syllable structure</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Grammar"><span class="tocnumber">3</span> <span class="toctext">Grammar</span></a></li>
+<li class="toclevel-1"><a href="#Dialects"><span class="tocnumber">4</span> <span class="toctext">Dialects</span></a></li>
+<li class="toclevel-1"><a href="#Social_registers"><span class="tocnumber">5</span> <span class="toctext">Social registers</span></a></li>
+<li class="toclevel-1"><a href="#Writing_system"><span class="tocnumber">6</span> <span class="toctext">Writing system</span></a></li>
+<li class="toclevel-1"><a href="#Numbers"><span class="tocnumber">7</span> <span class="toctext">Numbers</span></a></li>
+<li class="toclevel-1"><a href="#References_and_notes"><span class="tocnumber">8</span> <span class="toctext">References and notes</span></a></li>
+<li class="toclevel-1"><a href="#Further_reading"><span class="tocnumber">9</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<script type="text/javascript">
+//<![CDATA[
+ if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } 
+//]]>
+</script>
+<p><a name="History" id="History"></a></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Khmer_language&amp;action=edit&amp;section=1" title="Edit section: History">edit</a>]</span> <span class="mw-headline">History</span></h2>
+<p><a href="/wiki/Linguistics" title="Linguistics">Linguistic</a> study of the Khmer language divides its history into four periods.<sup id="cite_ref-SIDWELL_3-0" class="reference"><a href="#cite_note-SIDWELL-3" title="">[4]</a></sup> Pre-Angkorian Khmer, the language after its divergence from Proto-Mon-Khmer until the ninth century, is only known from words and phrases in Sanskrit texts of the era. Old Khmer (or Angkorian Khmer) is the language as it was spoken in the <a href="/wiki/Khmer_Empire" title="Khmer Empire">Khmer Empire</a> from the 9th century until the weakening of the empire sometime in the 13th century. Old Khmer is attested by many primary sources and has been studied in depth by a few scholars, most notably Saveros Pou, Phillip Jenner and Heinz-Jürgen Pinnow. Following the end of the Khmer Empire the language lost the standardizing influence of being the language of government and accordingly underwent a turbulent period of change in <a href="/wiki/Morphology_%28linguistics%29" title="Morphology (linguistics)">morphology</a>, <a href="/wiki/Phonology" title="Phonology">phonology</a> and <a href="/wiki/Lexicon" title="Lexicon">lexicon</a>. The language of this transition period, from about the 14th to 18th centuries, is referred to as Middle Khmer and saw borrowing from Thai, Lao and, to a lesser extent, Vietnamese. The changes during this period are so profound that the rules of Modern Khmer can not be applied to correctly understand the Old Khmer. The language became recognizable as the Modern Khmer spoken today in the 19th century.<sup id="cite_ref-SIDWELL_3-1" class="reference"><a href="#cite_note-SIDWELL-3" title="">[4]</a></sup></p>
+<p>Khmer is classified as a member of the Eastern branch of the <a href="/wiki/Mon-Khmer_languages" title="Mon-Khmer languages">Mon-Khmer</a> language family, itself a subdivision of the larger Austro-Asiatic language group, which has representatives in a large swath of land from Northeast India down through Southeast Asia to the Malay Peninsula and its islands. As such, its closest relatives are the languages of the <a href="/wiki/Pearic_languages" title="Pearic languages">Pearic</a>, <a href="/wiki/Bahnaric_languages" title="Bahnaric languages">Bahnaric</a>, and <a href="/wiki/Katuic_languages" title="Katuic languages">Katuic</a> families spoken by the hill tribes of the region.<sup id="cite_ref-Shorto_4-0" class="reference"><a href="#cite_note-Shorto-4" title="">[5]</a></sup> The <a href="/wiki/Vietic_languages" title="Vietic languages">Vietic languages</a> have also been classified as belonging to this family.</p>
+<p><a name="Phonology" id="Phonology"></a></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Khmer_language&amp;action=edit&amp;section=2" title="Edit section: Phonology">edit</a>]</span> <span class="mw-headline">Phonology</span></h2>
+<p>As described by Huffman, modern standard Khmer has the following consonant and vowel phonemes.<sup id="cite_ref-HUFF_5-0" class="reference"><a href="#cite_note-HUFF-5" title="">[6]</a></sup> The phonological system described here is the inventory of sounds of the spoken language, not how they are written in the <a href="/wiki/Khmer_alphabet" class="mw-redirect" title="Khmer alphabet">Khmer alphabet</a>.</p>
+<p><a name="Consonants" id="Consonants"></a></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Khmer_language&amp;action=edit&amp;section=3" title="Edit section: Consonants">edit</a>]</span> <span class="mw-headline">Consonants</span></h3>
+<table class="wikitable">
+<tr>
+<th></th>
+<th><a href="/wiki/Labial_consonant" title="Labial consonant">Labial</a></th>
+<th><a href="/wiki/Coronal_consonant" title="Coronal consonant">Coronal</a></th>
+<th><a href="/wiki/Palatal_consonant" title="Palatal consonant">Palatal</a></th>
+<th><a href="/wiki/Velar_consonant" title="Velar consonant">Velar</a></th>
+<th><a href="/wiki/Glottal_consonant" title="Glottal consonant">Glottal</a></th>
+</tr>
+<tr>
+<th>Aspirated plosive</th>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">pʰ</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">tʰ</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">cʰ</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">kʰ</span></td>
+<td></td>
+</tr>
+<tr>
+<th>Unaspirated plosive</th>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">p</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">t</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">c</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">k</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ʔ</span></td>
+</tr>
+<tr>
+<th><a href="/wiki/Implosive" class="mw-redirect" title="Implosive">Implosive</a></th>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɓ</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɗ</span></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th><a href="/wiki/Nasal_consonant" title="Nasal consonant">Nasal</a></th>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">m</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">n</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɲ</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ŋ</span></td>
+<td></td>
+</tr>
+<tr>
+<th><a href="/wiki/Liquid_consonant" title="Liquid consonant">Liquid</a></th>
+<td></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">r</span> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">l</span></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th><a href="/wiki/Fricative_consonant" title="Fricative consonant">Fricative</a></th>
+<td></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">s</span></td>
+<td></td>
+<td></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">h</span></td>
+</tr>
+<tr>
+<th><a href="/wiki/Approximant_consonant" title="Approximant consonant">Approximant</a></th>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ʋ</span></td>
+<td></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">j</span></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+<p>The consonants <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/f/</span>, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ʃ/</span>, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/z/</span> and <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɡ/</span> may occasionally occur in foreign words from, for example, French and other recent introductions. These consonants do not appear in the chart above because they are not Khmer consonants per se and the sounds do not occur in any Khmer words. These non-native sounds are only heard by speakers familiar with the originating language and have no corresponding symbol in the Khmer script, although combinations of letters otherwise unpronounceable are used to represent these sounds when necessary. In the speech of those who are not bilingual, these sounds are approximated with natively occurring <a href="/wiki/Phoneme" title="Phoneme">phonemes</a>:</p>
+<table class="wikitable" style="text-align: center">
+<tr>
+<th>Foreign Sound (IPA)</th>
+<th>Khmer Representation</th>
+<th>Khmer Approximation (IPA)</th>
+</tr>
+<tr>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɡ/</span></td>
+<td>ហ្គ</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/k/</span></td>
+</tr>
+<tr>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ʃ/</span></td>
+<td>ហ្ស</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/s/</span></td>
+</tr>
+<tr>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/f/</span></td>
+<td>ហ្វ</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/h/</span> or <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/pʰ/</span></td>
+</tr>
+<tr>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/z/</span></td>
+<td>ហ្ស</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/s/</span></td>
+</tr>
+</table>
+<p><a name="Vowel_nuclei" id="Vowel_nuclei"></a></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Khmer_language&amp;action=edit&amp;section=4" title="Edit section: Vowel nuclei">edit</a>]</span> <span class="mw-headline">Vowel nuclei</span></h3>
+<table class="wikitable">
+<tr>
+<th>Long vowels</th>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">iː</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">eː</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɛː</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɨː</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">əː</span></td>
+<td></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">aː</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">uː</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">oː</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɔː</span></td>
+</tr>
+<tr>
+<th>Short vowels</th>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">i</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">e</span></td>
+<td></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɨ</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ə</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɐ</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">a</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">u</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">o</span></td>
+<td></td>
+</tr>
+<tr>
+<th>Long diphthongs</th>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">iə</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ei</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɐe</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɨə</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">əɨ</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɐə</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ao</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">uə</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ou</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɔə</span></td>
+</tr>
+<tr>
+<th>Short diphthongs</th>
+<td></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">eə̆</span></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">uə̆</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">oə̆</span></td>
+<td></td>
+</tr>
+</table>
+<p>The precise number and the phonetic value of vowel nuclei vary from dialect to dialect.<sup id="cite_ref-SIDWELL_3-2" class="reference"><a href="#cite_note-SIDWELL-3" title="">[4]</a></sup> Short and long vowels of equal quality are distinguished solely by duration.</p>
+<p><a name="Syllable_structure" id="Syllable_structure"></a></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Khmer_language&amp;action=edit&amp;section=5" title="Edit section: Syllable structure">edit</a>]</span> <span class="mw-headline">Syllable structure</span></h3>
+<p>Khmer words are predominantly of one or two syllables. There are 85 possible clusters of two consonants at the beginning of syllables and two three-consonant clusters with phonetic alterations as shown below:</p>
+<table class="wikitable">
+<tr>
+<th></th>
+<th><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">p</span></th>
+<th><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɓ</span></th>
+<th><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">t</span></th>
+<th><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɗ</span></th>
+<th><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">c</span></th>
+<th><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">k</span></th>
+<th><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ʔ</span></th>
+<th><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">m</span></th>
+<th><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">n</span></th>
+<th><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɲ</span></th>
+<th><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ŋ</span></th>
+<th><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">j</span></th>
+<th><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">l</span></th>
+<th><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">r</span></th>
+<th><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">s</span></th>
+<th><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">h</span></th>
+<th><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ʋ</span></th>
+</tr>
+<tr>
+<th><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">p</span></th>
+<td></td>
+<td></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">pʰt</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">pɗ</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">pʰc</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">pʰk</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">pʔ</span>-</td>
+<td></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">pʰn</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">pʰɲ</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">pʰŋ</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">pʰj</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">pʰl</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">pr</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ps</span>-</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">t</span></th>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">tʰp</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">tɓ</span></td>
+<td></td>
+<td></td>
+<td></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">tʰk</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">tʔ</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">tʰm</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">tʰn</span>-</td>
+<td></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">tʰŋ</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">tʰj</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">tʰl</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">tr</span>-</td>
+<td></td>
+<td></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">tʰʋ</span></td>
+</tr>
+<tr>
+<th><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">c</span></th>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">cʰp</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">cɓ</span></td>
+<td></td>
+<td></td>
+<td></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">cʰk</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">cʔ</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">cʰm</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">cʰn</span>-</td>
+<td></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">cʰŋ</span>-</td>
+<td></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">cʰl</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">cr</span>-</td>
+<td></td>
+<td></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">cʰʋ</span>-</td>
+</tr>
+<tr>
+<th><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">k</span></th>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">kʰp</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">kɓ</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">kʰt</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">kɗ</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">kʰc</span></td>
+<td></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">kʔ</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">kʰm</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">kʰn</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">kʰɲ</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">kŋ</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">kʰj</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">kʰl</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">kr</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ks</span>-</td>
+<td></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">kʰʋ</span>-</td>
+</tr>
+<tr>
+<th><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">s</span></th>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">sp</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">sɓ</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">st</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">sɗ</span>-</td>
+<td></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">sk</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">sʔ</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">sm</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">sn</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">sɲ</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">sŋ</span>-</td>
+<td></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">sl</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">sr</span>-</td>
+<td></td>
+<td></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">sʋ</span></td>
+</tr>
+<tr>
+<th><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ʔ</span></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ʔʋ</span>-</td>
+</tr>
+<tr>
+<th><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">m</span></th>
+<td></td>
+<td></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">mt</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">mɗ</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">mc</span></td>
+<td></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">mʔ</span>-</td>
+<td></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">mʰn</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">mʰɲ</span>-</td>
+<td></td>
+<td></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ml</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">mr</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ms</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">mh</span>-</td>
+<td></td>
+</tr>
+<tr>
+<th><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">l</span></th>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">lp</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">lɓ</span></td>
+<td></td>
+<td></td>
+<td></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">lk</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">lʔ</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">lm</span>-</td>
+<td></td>
+<td></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">lŋ</span>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">lh</span>-</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">lʋ</span>-</td>
+</tr>
+</table>
+<p>Syllables begin with one of these consonants or consonant clusters, followed by one of the vowel nuclei. When the vowel nucleus is short, there has to be a final consonant. <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/p, t, c, k, ʔ, m, n, ɲ, ŋ, l, h, j, ʋ/</span> can exist in a syllable coda. <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/h/</span> and <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ʋ/</span> become <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ç]</span> and <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[w]</span> respectively. The most common word structure in Khmer is a full syllable as described above, preceded by an unstressed, “minor” syllable that has a consonant-vowel (CV) structure CV-, CrV-, CVN- or CrVN- (N is any nasal in the Khmer inventory). Words can also be made up of two full syllables. The vowel in these preceding syllables is usually reduced in conversation to <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ə]</span>, however in careful or formal speech and in TV and radio, they are always clearly articulated.</p>
+<p>Words with three or more syllables exist, particularly those pertaining to science, the arts, and religion. These words are loanwords, usually derived from Pali, Sanskrit, or more recently, French.</p>
+<p><a name="Grammar" id="Grammar"></a></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Khmer_language&amp;action=edit&amp;section=6" title="Edit section: Grammar">edit</a>]</span> <span class="mw-headline">Grammar</span></h2>
+<dl>
+<dd>
+<div class="noprint relarticle mainarticle"><i>Main article: <a href="/wiki/Khmer_grammar" title="Khmer grammar">Khmer grammar</a></i></div>
+</dd>
+</dl>
+<p>Khmer is generally a <a href="/wiki/Subject_Verb_Object" title="Subject Verb Object">Subject Verb Object</a> (SVO) language with <a href="/wiki/Prepositions" class="mw-redirect" title="Prepositions">prepositions</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6" title="">[7]</a></sup> Although primarily an <a href="/wiki/Isolating_language" title="Isolating language">isolating language</a>, lexical <a href="/wiki/Derivation_%28linguistics%29" title="Derivation (linguistics)">derivation</a> by means of <a href="/wiki/Prefixes" class="mw-redirect" title="Prefixes">prefixes</a> and <a href="/wiki/Infixes" class="mw-redirect" title="Infixes">infixes</a> is common.<sup id="cite_ref-name_7-0" class="reference"><a href="#cite_note-name-7" title="">[8]</a></sup> Adjectives, demonstratives and numerals follow their noun:</p>
+<p>ស្រីឡើនោះ <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/srəːj</span> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">lʔɐː</span> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">nuç/</span> (girl pretty that) = that pretty girl</p>
+<p>The noun has no grammatical gender or singular/plural distinction. Plurality can be marked by <a href="/wiki/Postnominal" class="mw-redirect" title="Postnominal">postnominal</a> particles, numerals, or by doubling the adjective, which can also serve to intensify the adjective:</p>
+<p>ឆ្កែធំ <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/cʰkae</span> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">tʰom/</span> (dog large) = large dog</p>
+<p>ឆ្កែធំធំ <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/cʰkae</span> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">tʰom</span> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">tʰom/</span> (dog large large) = large dogs or a very large dog</p>
+<p>ឆ្កែពីរ <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/cʰkae</span> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">piː/</span> (dog two) = two dogs</p>
+<p><a href="/wiki/Classifier_%28linguistics%29" title="Classifier (linguistics)">Classifying particles</a> for use between numerals and nouns exist although are not obligatory as in, for example, Thai. As is typical of most East Asian languages,<sup id="cite_ref-8" class="reference"><a href="#cite_note-8" title="">[9]</a></sup> the verb does not inflect at all; tense and aspect can be shown by particles and adverbs or understood by context. Verbs are negated by putting "<span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/min/</span>", "<span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/pum/</span>" or "<span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ʔɐt/</span>" before them and "<span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/teː/</span>" at the end of the sentence or clause.</p>
+<p>ខ្ញុំជឿ <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/kʰɲom</span> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">cɨə/</span> - I believe</p>
+<p>ខ្ញុំមិនជឿទេ <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/kʰɲom</span> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">min</span> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">cɨə</span> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">teː/</span> - I don't believe</p>
+<p><a name="Dialects" id="Dialects"></a></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Khmer_language&amp;action=edit&amp;section=7" title="Edit section: Dialects">edit</a>]</span> <span class="mw-headline">Dialects</span></h2>
+<p><a href="/wiki/Dialect" title="Dialect">Dialects</a> are sometimes quite marked. Notable variations are found in speakers from <a href="/wiki/Phnom_Penh" title="Phnom Penh">Phnom Penh</a> (the capital city), the rural <a href="/wiki/Battambang_Province" title="Battambang Province">Battambang</a> area, the areas of Northeast Thailand adjacent to Cambodia such as <a href="/wiki/Surin_province" class="mw-redirect" title="Surin province">Surin province</a>, the Cardamom Mountains, and in southern Vietnam.<sup id="cite_ref-SIDWELL_3-3" class="reference"><a href="#cite_note-SIDWELL-3" title="">[4]</a></sup> The dialects form a <a href="/wiki/Dialect_continuum" title="Dialect continuum">continuum</a> running roughly north to south. The speech of Phnom Penh, considered the standard, is mutually intelligible with the others but a <a href="/wiki/Khmer_Krom" title="Khmer Krom">Khmer Krom</a> speaker from Vietnam, for instance, may have great difficulty communicating with a Khmer native to <a href="/wiki/Sisaket_Province" title="Sisaket Province">Sisaket Province</a> in Thailand.</p>
+<p>Northern Khmer, the dialect spoken in Thailand, is referred to in Khmer as <i>Khmer Surin</i> and, although it only began divergence from standard Khmer within the last 200 years, is considered by some linguists to be a separate language. This is due to its distinct accent influenced by the surrounding tonal language, <a href="/wiki/Thai_language" title="Thai language">Thai</a>, lexical differences and its phonemic differences in both vowels and distribution of consonants. Final "r", which has become silent in other dialects of Khmer, is pronounced in Northern Khmer.</p>
+<p><a href="/w/index.php?title=Western_Khmer&amp;action=edit&amp;redlink=1" class="new" title="Western Khmer (page does not exist)">Western Khmer</a>, also called <a href="/w/index.php?title=Cardamom_Khmer&amp;action=edit&amp;redlink=1" class="new" title="Cardamom Khmer (page does not exist)">Cardamom Khmer</a>, spoken by a small, isolated population in the Cardamom mountain range extending from Cambodia into Thailand, although little studied, is unique in that it maintains a definite system of <a href="/wiki/Register_%28phonology%29" title="Register (phonology)">vocal register</a> that has all but disappeared in other dialects of modern Khmer.<sup id="cite_ref-SIDWELL_3-4" class="reference"><a href="#cite_note-SIDWELL-3" title="">[4]</a></sup></p>
+<p>A notable characteristic of Phnom Penh casual speech is merging or complete <a href="/wiki/Elision" title="Elision">elision</a> of syllables, considered by speakers from other regions as a "relaxed" pronunciation. For instance, "Phnom Penh" will sometimes be shortened to "m'Penh". Another characteristic of Phnom Penh speech is observed in words with an "r" either as an initial consonant or as the second member of a <a href="/wiki/Consonant_cluster" title="Consonant cluster">consonant cluster</a> (as in the English word "bread"). The "r", <a href="/wiki/Alveolar_trill" title="Alveolar trill">trilled</a> or <a href="/wiki/Alveolar_tap" title="Alveolar tap">flapped</a> in other dialects, is either pronounced as an <a href="/wiki/Uvular_trill" title="Uvular trill">uvular trill</a> (similar to French) or not pronounced at all. This alters the quality of any preceding consonant causing a harder, more emphasized pronunciation. Another unique result is that the syllable is spoken with a low-rising or "dipping" <a href="/wiki/Tone_%28linguistics%29" title="Tone (linguistics)">tone</a> much like the "hỏi" tone in Northern <a href="/wiki/Vietnamese_language" title="Vietnamese language">Vietnamese</a>. For example, some people pronounce <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/trəj/</span> (meaning "fish") as <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/təj/</span>, the "r" is dropped and the vowel begins by dipping much lower in tone than standard speech and then rises, effectively doubling its length. Another example is the word <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/riən/</span> ("study, learn"). It is pronounced <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ʀiən/</span>, with the "uvular r" and the same intonation described above.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9" title="">[10]</a></sup></p>
+<p><a name="Social_registers" id="Social_registers"></a></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Khmer_language&amp;action=edit&amp;section=8" title="Edit section: Social registers">edit</a>]</span> <span class="mw-headline">Social registers</span></h2>
+<p>Khmer employs a system of <a href="/wiki/Register_%28linguistics%29" class="mw-redirect" title="Register (linguistics)">registers</a> in which the speaker must always be conscious of the social status of the person spoken to. The different registers, which include those used for common speech, polite speech, speaking to or about royals and speaking to or about monks, employ alternate verbs, names of body parts and pronouns. This results in what appears to foreigners as separate languages and, in fact, isolated villagers often are unsure how to speak with royals and royals raised completely within the court do not feel comfortable speaking the common register. Another result is that the pronominal system is complex and full of honorific variations.</p>
+<p>As an example, the word for "to eat" used between intimates or in reference to animals is <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/siː/</span>. Used in polite reference to commoners, it's <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɲam/</span>. When used of those of higher social status, it's <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/pisa/</span> or <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/tɔtuəl tiən/</span>. For monks the word is <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/cʰan/</span> and for royals, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/saoj/</span><sup id="cite_ref-cl_1-1" class="reference"><a href="#cite_note-cl-1" title="">[2]</a></sup>.</p>
+<p><a name="Writing_system" id="Writing_system"></a></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Khmer_language&amp;action=edit&amp;section=9" title="Edit section: Writing system">edit</a>]</span> <span class="mw-headline">Writing system</span></h2>
+<dl>
+<dd>
+<div class="noprint relarticle mainarticle"><i>Main article: <a href="/wiki/Khmer_script" title="Khmer script">Khmer script</a></i></div>
+</dd>
+</dl>
+<p>Khmer is written with the <a href="/wiki/Khmer_script" title="Khmer script">Khmer script</a>, an <a href="/wiki/Abugida" title="Abugida">abugida</a> developed from the <a href="/wiki/Pallava_script" class="mw-redirect" title="Pallava script">Pallava script</a> of India before the 7th century.<sup id="cite_ref-OMNI_10-0" class="reference"><a href="#cite_note-OMNI-10" title="">[11]</a></sup> The Khmer script is similar in appearance and usage to both <a href="/wiki/Thai_script" class="mw-redirect" title="Thai script">Thai</a> and <a href="/wiki/Lao_script" title="Lao script">Lao</a> which were based on the Khmer system.<sup id="cite_ref-OMNI_10-1" class="reference"><a href="#cite_note-OMNI-10" title="">[11]</a></sup> <a href="/wiki/Khmer_numerals" title="Khmer numerals">Khmer numerals</a>, which were inherited from Indian numerals, are used more widely than <a href="/wiki/Hindu-Arabic_numerals" class="mw-redirect" title="Hindu-Arabic numerals">Hindu-Arabic numerals</a>. The Khmer script is also used within Cambodia to transcribe hill tribe languages that have no writing system.<sup id="cite_ref-HUFF_5-1" class="reference"><a href="#cite_note-HUFF-5" title="">[6]</a></sup></p>
+<p><a name="Numbers" id="Numbers"></a></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Khmer_language&amp;action=edit&amp;section=10" title="Edit section: Numbers">edit</a>]</span> <span class="mw-headline">Numbers</span></h2>
+<dl>
+<dd>
+<div class="noprint relarticle mainarticle"><i>Main article: <a href="/wiki/Khmer_numerals" title="Khmer numerals">Khmer numerals</a></i></div>
+</dd>
+</dl>
+<p>The numbers<sup id="cite_ref-name_7-1" class="reference"><a href="#cite_note-name-7" title="">[8]</a></sup> are:</p>
+<table>
+<tr>
+<td>0</td>
+<td>០</td>
+<td>សូន្យ</td>
+<td>(son)</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/soːu̯n/</span></td>
+</tr>
+<tr>
+<td>1</td>
+<td>១</td>
+<td>មួយ</td>
+<td>(muŏy)</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/muːə̯j/</span></td>
+</tr>
+<tr>
+<td>2</td>
+<td>២</td>
+<td>ពីរ</td>
+<td>(pi)</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/piː/</span></td>
+</tr>
+<tr>
+<td>3</td>
+<td>៣</td>
+<td>បី</td>
+<td>(bei)</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɓəj/</span></td>
+</tr>
+<tr>
+<td>4</td>
+<td>៤</td>
+<td>បួន</td>
+<td>(buŏn)</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɓuːə̯n/</span></td>
+</tr>
+<tr>
+<td>5</td>
+<td>៥</td>
+<td>ប្រាំ</td>
+<td>(prăm)</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/pram/</span></td>
+</tr>
+<tr>
+<td>6</td>
+<td>៦</td>
+<td>ប្រាំមូយ</td>
+<td>(prăm muŏy)</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/pram muːə̯j/</span></td>
+</tr>
+<tr>
+<td>7</td>
+<td>៧</td>
+<td>ប្រាំពីរ</td>
+<td>(prăm pi)</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/pram piː/</span> (also <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/pram pɨl/</span>)</td>
+</tr>
+<tr>
+<td>8</td>
+<td>៨</td>
+<td>ប្រាំបី</td>
+<td>(prăm bei)</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/pram ɓəj/</span></td>
+</tr>
+<tr>
+<td>9</td>
+<td>៩</td>
+<td>ប្រាំបួន</td>
+<td>(prăm buŏn)</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/pram ɓuːə̯n/</span></td>
+</tr>
+<tr>
+<td>10</td>
+<td>១០</td>
+<td>ដប់</td>
+<td>(dâp)</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɗɑp/</span></td>
+</tr>
+<tr>
+<td>100</td>
+<td>១០០</td>
+<td>មួយរយ</td>
+<td>(muŏy rôy)</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/muːə̯j rɔj/</span></td>
+</tr>
+<tr>
+<td>1,000</td>
+<td>១០០០</td>
+<td>មួយពាន់</td>
+<td>(muŏy péan)</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/muːə̯j piːə̯n/</span></td>
+</tr>
+<tr>
+<td>10,000</td>
+<td>១០០០០</td>
+<td>មួយម៉ឺន</td>
+<td>(muŏy mein)</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/muːə̯j məɨn/</span></td>
+</tr>
+<tr>
+<td>100,000</td>
+<td>១០០០០០</td>
+<td>មួយសែន</td>
+<td>(muŏy sên)</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/muːə̯j saːe̯n/</span></td>
+</tr>
+<tr>
+<td>1,000,000</td>
+<td>១០០០០០០</td>
+<td>មួយលាន</td>
+<td>(muŏy léan)</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/muːə̯j liːə̯n/</span></td>
+</tr>
+</table>
+<p><a name="References_and_notes" id="References_and_notes"></a></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Khmer_language&amp;action=edit&amp;section=11" title="Edit section: References and notes">edit</a>]</span> <span class="mw-headline">References and notes</span></h2>
+<ol class="references">
+<li id="cite_note-0"><b><a href="#cite_ref-0" title="">^</a></b> Vietnam's estimated amount of Khmer speakers by <a href="http://www.ethnologue.com/show_language.asp?code=khm" class="external text" title="http://www.ethnologue.com/show_language.asp?code=khm" rel="nofollow">Ethnologue.com</a> in (1999)</li>
+<li id="cite_note-cl-1">^ <a href="#cite_ref-cl_1-0" title=""><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-cl_1-1" title=""><sup><i><b>b</b></i></sup></a> <cite class="book" style="font-style:normal">David A. Smyth, Judith Margaret Jacob (1993). <i><a href="http://books.google.co.uk/books?vid=ISBN0728602180&amp;id=gQwGbvy5OXcC&amp;pg=PA44&amp;lpg=PA44&amp;vq=Khmer+language&amp;ie=ISO-8859-1&amp;output=html&amp;sig=b0VYcx9OakCRRdial_b266oyN94" class="external text" title="http://books.google.co.uk/books?vid=ISBN0728602180&amp;id=gQwGbvy5OXcC&amp;pg=PA44&amp;lpg=PA44&amp;vq=Khmer+language&amp;ie=ISO-8859-1&amp;output=html&amp;sig=b0VYcx9OakCRRdial_b266oyN94" rel="nofollow">Cambodian Linguistics, Literature and History: Collected Articles</a></i>. Routledge (UK). ISBN 0728602180147852369*.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Cambodian+Linguistics%2C+Literature+and+History%3A+Collected+Articles&amp;rft.au=David+A.+Smyth%2C+Judith+Margaret+Jacob&amp;rft.date=1993&amp;rft.pub=Routledge+%28UK%29&amp;rft_id=http%3A%2F%2Fbooks.google.co.uk%2Fbooks%3Fvid%3DISBN0728602180%26id%3DgQwGbvy5OXcC%26pg%3DPA44%26lpg%3DPA44%26vq%3DKhmer%2Blanguage%26ie%3DISO-8859-1%26output%3Dhtml%26sig%3Db0VYcx9OakCRRdial_b266oyN94"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-2"><b><a href="#cite_ref-2" title="">^</a></b> <cite class="book" style="font-style:normal">Nancy Joan Smith-Hefner (1999). <i>Khmer American: Identity and Moral Education in a Diasporic Community</i>. University of California. <a href="/wiki/Special:BookSources/0520213491" class="internal">ISBN 0520213491</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Khmer+American%3A+Identity+and+Moral+Education+in+a+Diasporic+Community&amp;rft.au=Nancy+Joan+Smith-Hefner&amp;rft.date=1999&amp;rft.pub=University+of+California"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-SIDWELL-3">^ <a href="#cite_ref-SIDWELL_3-0" title=""><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-SIDWELL_3-1" title=""><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-SIDWELL_3-2" title=""><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-SIDWELL_3-3" title=""><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-SIDWELL_3-4" title=""><sup><i><b>e</b></i></sup></a> <a href="http://www.anu.edu.au/~u9907217/languages/Khmer-Cambodian.html" class="external text" title="http://www.anu.edu.au/~u9907217/languages/Khmer-Cambodian.html" rel="nofollow">Mon-Khmer Studies</a> Paul Sidwell. Australian National University. Accessed February 23, 2007.</li>
+<li id="cite_note-Shorto-4"><b><a href="#cite_ref-Shorto_4-0" title="">^</a></b> Shorto, Harry L. edited by Sidwell, Paul, Cooper, Doug and Bauer, Christian (2006). <i>A Mon-Khmer comparative dictionary</i>. Canberra: Australian National University. Pacific Linguistics. <a href="/wiki/Special:BookSources/0858835703" class="internal">ISBN 0-85883-570-3</a></li>
+<li id="cite_note-HUFF-5">^ <a href="#cite_ref-HUFF_5-0" title=""><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-HUFF_5-1" title=""><sup><i><b>b</b></i></sup></a> Huffman, Franklin. 1970. <i><a href="http://www.pratyeka.org/csw/hlp-csw.pdf" class="external text" title="http://www.pratyeka.org/csw/hlp-csw.pdf" rel="nofollow">Cambodian System of Writing and Beginning Reader</a></i>. Yale University Press. <a href="/wiki/Special:BookSources/0300013140" class="internal">ISBN 0-300-01314-0</a></li>
+<li id="cite_note-6"><b><a href="#cite_ref-6" title="">^</a></b> Huffman, Franklin. 1967. <i>An outline of Cambodian Grammar</i>. PhD thesis, Cornell University.</li>
+<li id="cite_note-name-7">^ <a href="#cite_ref-name_7-0" title=""><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-name_7-1" title=""><sup><i><b>b</b></i></sup></a> <cite class="book" style="font-style:normal">David Smyth (1995). <i>Colloquial Cambodian: A Complete Language Course</i>. Routledge (UK). <a href="/wiki/Special:BookSources/0415100062" class="internal">ISBN 0415100062</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Colloquial+Cambodian%3A+A+Complete+Language+Course&amp;rft.au=David+Smyth&amp;rft.date=1995&amp;rft.pub=Routledge+%28UK%29"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-8"><b><a href="#cite_ref-8" title="">^</a></b> <a href="http://fds.oup.com/www.oup.co.uk/pdf/0-19-927311-1.pdf" class="external text" title="http://fds.oup.com/www.oup.co.uk/pdf/0-19-927311-1.pdf" rel="nofollow">East and Southeast Asian Languages: A First Look</a> at Oxford University Press Online</li>
+<li id="cite_note-9"><b><a href="#cite_ref-9" title="">^</a></b> <cite class="book" style="font-style:normal">William Allen A. Smalley (1994). <i>Linguistic Diversity and National Unity: Language Ecology in Thailand</i>. University of Chicago. <a href="/wiki/Special:BookSources/0226762882" class="internal">ISBN 0226762882</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Linguistic+Diversity+and+National+Unity%3A+Language+Ecology+in+Thailand&amp;rft.au=William+Allen+A.+Smalley&amp;rft.date=1994&amp;rft.pub=University+of+Chicago"><span style="display: none;">&#160;</span></span></li>
+<li id="cite_note-OMNI-10">^ <a href="#cite_ref-OMNI_10-0" title=""><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-OMNI_10-1" title=""><sup><i><b>b</b></i></sup></a> <a href="http://www.omniglot.com/writing/khmer.htm" class="external text" title="http://www.omniglot.com/writing/khmer.htm" rel="nofollow">Khmer Alphabet at Omniglot.com</a></li>
+</ol>
+<p><a name="Further_reading" id="Further_reading"></a></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Khmer_language&amp;action=edit&amp;section=12" title="Edit section: Further reading">edit</a>]</span> <span class="mw-headline">Further reading</span></h2>
+<div class="references-small">
+<ul>
+<li>Ferlus, Michel. 1992. <i>Essai de phonétique historique du khmer</i> (Du milieu du premier millénaire de notre ère à l'époque actuelle)", Mon-Khmer Studies XXI: 57-89)</li>
+<li>Headley, Robert et al. 1977. <i>Cambodian-English Dictionary</i>. Washington, Catholic University Press. <a href="/wiki/Special:BookSources/0813205093" class="internal">ISBN 0813205093</a></li>
+<li>Huffman, F. E., Promchan, C., &amp; Lambert, C.-R. T. (1970). <i>Modern spoken Cambodian</i>. New Haven: Yale University Press. <a href="/wiki/Special:BookSources/0300013159" class="internal">ISBN 0300013159</a></li>
+<li>Huffman, F. E., Lambert, C.-R. T., &amp; Im Proum. (1970). <i>Cambodian system of writing and beginning reader with drills and glossary</i>. Yale linguistic series. New Haven: Yale University Press. <a href="/wiki/Special:BookSources/0300011997" class="internal">ISBN 0300011997</a></li>
+<li>Jacob, Judith. 1974. <i>A Concise Cambodian-English Dictionary</i>. London, Oxford University Press. <a href="/wiki/Special:BookSources/0197135749" class="internal">ISBN 0197135749</a></li>
+<li>Jacob, J. M. (1996). <i>The traditional literature of Cambodia: a preliminary guide</i>. London oriental series, v. 40. New York: Oxford University Press. <a href="/wiki/Special:BookSources/0197136125" class="internal">ISBN 0197136125</a></li>
+<li>Jacob, J. M., &amp; Smyth, D. (1993). <i>Cambodian linguistics, literature and history: collected articles</i>. London: School of Oriental and African Studies, University of London. <a href="/wiki/Special:BookSources/0728602180" class="internal">ISBN 0728602180</a></li>
+<li>Keesee, A. P. K. (1996). <i>An English-spoken Khmer dictionary: with romanized writing system, usage, and indioms, and notes on Khmer speech and grammar</i>. London: Kegan Paul International. <a href="/wiki/Special:BookSources/0710305141" class="internal">ISBN 0710305141</a></li>
+<li>Meechan, M. (1992). <i>Register in Khmer the laryngeal specification of pharyngeal expansion</i>. Ottawa: National Library of Canada = Bibliothèque nationale du Canada. <a href="/wiki/Special:BookSources/0315750162" class="internal">ISBN 0315750162</a></li>
+<li>Sak-Humphry, C. (2002). <i>Communicating in Khmer: an interactive intermediate level Khmer course</i>. Manoa, Hawai'i: Center for Southeast Asian Studies, School of Hawaiian, Asian and Pacific Studies, University of Hawai'i at Manoa. OCLC: 56840636</li>
+<li>Smyth, D. (1995). <i>Colloquial Cambodian: a complete language course</i>. London: Routledge. <a href="/wiki/Special:BookSources/0415100062" class="internal">ISBN 0415100062</a></li>
+<li>Stewart, F., &amp; May, S. (2004). <i>In the shadow of Angkor: contemporary writing from Cambodia</i>. Honolulu: University of Hawai'i Press. <a href="/wiki/Special:BookSources/0824828496" class="internal">ISBN 0824828496</a></li>
+<li>Tonkin, D. (1991). <i>The Cambodian alphabet: how to write the Khmer language</i>. Bangkok: Trasvin Publications. <a href="/wiki/Special:BookSources/9748867021" class="internal">ISBN 9748867021</a></li>
+</ul>
+</div>
+<p><a name="External_links" id="External_links"></a></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Khmer_language&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a>]</span> <span class="mw-headline">External links</span></h2>
+<div class="infobox sisterproject">
+<div style="float: left;">
+<div class="floatnone"><span><a href="/wiki/Image:Wikipedia-logo.png" class="image" title="Wikipedia"><img alt="Wikipedia" src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wikipedia-logo.png/45px-Wikipedia-logo.png" width="45" height="45" border="0" /></a></span></div>
+</div>
+<div style="margin-left: 60px;"><i><b><a href="http://km.wikipedia.org/wiki/" class="extiw" title="km:">Khmer language edition</a></b></i> of <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>, the free encyclopedia</div>
+</div>
+<ul>
+<li><a href="http://sealang.net/mk/khmeric.htm" class="external text" title="http://sealang.net/mk/khmeric.htm" rel="nofollow">SEAlang Project: Mon-Khmer languages. The Khmeric Branch</a></li>
+<li><a href="http://www.ethnologue.com/show_family.asp?subid=91043" class="external text" title="http://www.ethnologue.com/show_family.asp?subid=91043" rel="nofollow">Ethnologue entry on Khmer</a></li>
+<li><a href="http://code.google.com/p/khmer-dictionary-tools/" class="external text" title="http://code.google.com/p/khmer-dictionary-tools/" rel="nofollow">Dictionary and SpellChecker</a> open sourced and collaborative project based on <a href="/wiki/Chuon_Nath" title="Chuon Nath">Chuon Nath</a> Khmer Dictionary</li>
+<li><a href="http://www.sbbic.org/en/install-khmer-unicode-windows" class="external text" title="http://www.sbbic.org/en/install-khmer-unicode-windows" rel="nofollow">How to install Khmer script on a Windows computer</a></li>
+<li><i><a href="http://www.lmp.ucla.edu/Profile.aspx?LangID=75&amp;menu=004" class="external text" title="http://www.lmp.ucla.edu/Profile.aspx?LangID=75&amp;menu=004" rel="nofollow">Khmer</a></i> at <a href="http://www.lmp.ucla.edu/" class="external text" title="http://www.lmp.ucla.edu/" rel="nofollow">UCLA Language Materials project</a></li>
+<li><a href="http://www.sihanoukville-cambodia.com/about-sihanoukville/language.html" class="external text" title="http://www.sihanoukville-cambodia.com/about-sihanoukville/language.html" rel="nofollow">Small Primer on the Khmer Language</a></li>
+<li><a href="http://www.usofttechnology.com.kh/dictionaries/default.aspx" class="external text" title="http://www.usofttechnology.com.kh/dictionaries/default.aspx" rel="nofollow">English-Khmer-English online dictionary</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 3447/1000000
+Post-expand include size: 35695/2048000 bytes
+Template argument size: 5243/2048000 bytes
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:5216-0!1!0!default!!en!2 and timestamp 20080622145908 -->
+<div class="printfooter">
+Retrieved from "<a href="http://en.wikipedia.org/wiki/Khmer_language">http://en.wikipedia.org/wiki/Khmer_language</a>"</div>
+			<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>:&#32;<span dir='ltr'><a href="/wiki/Category:Khmer_language" title="Category:Khmer language">Khmer language</a></span> | <span dir='ltr'><a href="/wiki/Category:Languages_of_Cambodia" title="Category:Languages of Cambodia">Languages of Cambodia</a></span> | <span dir='ltr'><a href="/wiki/Category:Languages_of_Thailand" title="Category:Languages of Thailand">Languages of Thailand</a></span></div></div>			<!-- end content -->
+			<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+					 <li id="ca-nstab-main" class="selected"><a href="/wiki/Khmer_language" title="View the content page [c]" accesskey="c">Article</a></li>
+					 <li id="ca-talk"><a href="/wiki/Talk:Khmer_language" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+					 <li id="ca-edit"><a href="/w/index.php?title=Khmer_language&amp;action=edit" title="You can edit this page. Please use the preview button before saving. [e]" accesskey="e">Edit this page</a></li>
+					 <li id="ca-history"><a href="/w/index.php?title=Khmer_language&amp;action=history" title="Past versions of this page [h]" accesskey="h">History</a></li>
+				</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Khmer_language" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(http://upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+		<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li>
+				<li id="n-Contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+				<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content">Featured content</a></li>
+				<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			</ul>
+		</div>
+	</div>
+		<div class='generated-sidebar portlet' id='p-interaction'>
+		<h5>Interaction</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-aboutsite"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+				<li id="n-portal"><a href="/wiki/Wikipedia:Community_Portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+				<li id="n-sitesupport"><a href="http://wikimediafoundation.org/wiki/Donate" title="Support us">Donate to Wikipedia</a></li>
+				<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			</ul>
+		</div>
+	</div>
+		<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/wiki/Special:Search" id="searchform"><div>
+				<input id="searchInput" name="search" type="text" title="Search Wikipedia [f]" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if one exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the wiki for this text" />
+			</div></form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Khmer_language" title="List of all English Wikipedia pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Khmer_language" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/w/index.php?title=Khmer_language&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="/w/index.php?title=Khmer_language&amp;oldid=217780200" title="Permanent link to this version of the page">Permanent link</a></li><li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Khmer_language&amp;id=217780200">Cite this page</a></li>			</ul>
+		</div>
+	</div>
+	<div id="p-lang" class="portlet">
+		<h5>Languages</h5>
+		<div class="pBody">
+			<ul>
+				<li class="interwiki-ar"><a href="http://ar.wikipedia.org/wiki/%D9%84%D8%BA%D8%A9_%D8%AE%D9%85%D9%8A%D8%B1%D9%8A%D8%A9">العربية</a></li>
+				<li class="interwiki-br"><a href="http://br.wikipedia.org/wiki/Kmereg">Brezhoneg</a></li>
+				<li class="interwiki-bg"><a href="http://bg.wikipedia.org/wiki/%D0%9A%D1%85%D0%BC%D0%B5%D1%80%D1%81%D0%BA%D0%B8_%D0%B5%D0%B7%D0%B8%D0%BA">Български</a></li>
+				<li class="interwiki-da"><a href="http://da.wikipedia.org/wiki/Khmer">Dansk</a></li>
+				<li class="interwiki-de"><a href="http://de.wikipedia.org/wiki/Khmer-Sprache">Deutsch</a></li>
+				<li class="interwiki-el"><a href="http://el.wikipedia.org/wiki/%CE%A7%CE%BC%CE%B5%CF%81_%28%CE%B3%CE%BB%CF%8E%CF%83%CF%83%CE%B1%29">Ελληνικά</a></li>
+				<li class="interwiki-es"><a href="http://es.wikipedia.org/wiki/Idioma_camboyano">Español</a></li>
+				<li class="interwiki-eo"><a href="http://eo.wikipedia.org/wiki/%C4%A4mera_lingvo">Esperanto</a></li>
+				<li class="interwiki-fa"><a href="http://fa.wikipedia.org/wiki/%D8%B2%D8%A8%D8%A7%D9%86_%D8%AE%D9%85%D8%B1">فارسی</a></li>
+				<li class="interwiki-fr"><a href="http://fr.wikipedia.org/wiki/Khmer">Français</a></li>
+				<li class="interwiki-ko"><a href="http://ko.wikipedia.org/wiki/%ED%81%AC%EB%A9%94%EB%A5%B4%EC%96%B4">한국어</a></li>
+				<li class="interwiki-id"><a href="http://id.wikipedia.org/wiki/Bahasa_Khmer">Bahasa Indonesia</a></li>
+				<li class="interwiki-it"><a href="http://it.wikipedia.org/wiki/Lingua_khmer">Italiano</a></li>
+				<li class="interwiki-mk"><a href="http://mk.wikipedia.org/wiki/%D0%9A%D0%BC%D0%B5%D1%80%D1%81%D0%BA%D0%B8_%D1%98%D0%B0%D0%B7%D0%B8%D0%BA">Македонски</a></li>
+				<li class="interwiki-ms"><a href="http://ms.wikipedia.org/wiki/Bahasa_Khmer">Bahasa Melayu</a></li>
+				<li class="interwiki-nl"><a href="http://nl.wikipedia.org/wiki/Khmer_%28taal%29">Nederlands</a></li>
+				<li class="interwiki-ja"><a href="http://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%A1%E3%83%BC%E3%83%AB%E8%AA%9E">日本語</a></li>
+				<li class="interwiki-no"><a href="http://no.wikipedia.org/wiki/Khmer_%28spr%C3%A5k%29">‪Norsk (bokmål)‬</a></li>
+				<li class="interwiki-km"><a href="http://km.wikipedia.org/wiki/%E1%9E%97%E1%9E%B6%E1%9E%9F%E1%9E%B6%E1%9E%81%E1%9F%92%E1%9E%98%E1%9F%82%E1%9E%9A">ភាសាខ្មែរ</a></li>
+				<li class="interwiki-pl"><a href="http://pl.wikipedia.org/wiki/J%C4%99zyk_khmerski">Polski</a></li>
+				<li class="interwiki-pt"><a href="http://pt.wikipedia.org/wiki/L%C3%ADngua_khmer">Português</a></li>
+				<li class="interwiki-ru"><a href="http://ru.wikipedia.org/wiki/%D0%9A%D1%85%D0%BC%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA">Русский</a></li>
+				<li class="interwiki-simple"><a href="http://simple.wikipedia.org/wiki/Khmer_language">Simple English</a></li>
+				<li class="interwiki-fi"><a href="http://fi.wikipedia.org/wiki/Khmerin_kieli">Suomi</a></li>
+				<li class="interwiki-sv"><a href="http://sv.wikipedia.org/wiki/Khmer_%28spr%C3%A5k%29">Svenska</a></li>
+				<li class="interwiki-tl"><a href="http://tl.wikipedia.org/wiki/Wikang_Khmer">Tagalog</a></li>
+				<li class="interwiki-th"><a href="http://th.wikipedia.org/wiki/%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%A1%E0%B8%A3">ไทย</a></li>
+				<li class="interwiki-vi"><a href="http://vi.wikipedia.org/wiki/Ti%E1%BA%BFng_Khmer">Tiếng Việt</a></li>
+				<li class="interwiki-tr"><a href="http://tr.wikipedia.org/wiki/Khmer">Türkçe</a></li>
+				<li class="interwiki-wa"><a href="http://wa.wikipedia.org/wiki/Xhmer">Walon</a></li>
+				<li class="interwiki-wuu"><a href="http://wuu.wikipedia.org/wiki/%E9%AB%98%E6%A3%89%E6%96%87">吴语</a></li>
+				<li class="interwiki-zh"><a href="http://zh.wikipedia.org/wiki/%E9%AB%98%E6%A3%89%E8%AF%AD">中文</a></li>
+			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/skins-1.5/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+				<div id="f-copyrightico"><a href="http://wikimediafoundation.org/"><img src="/images/wikimedia-button.png" border="0" alt="Wikimedia Foundation"/></a></div>
+			<ul id="f-list">
+				<li id="lastmod"> This page was last modified on 7 June 2008, at 17:16.</li>
+				<li id="copyright">All text is available under the terms of the <a class='internal' href="http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License" title="Wikipedia:Text of the GNU Free Documentation License">GNU Free Documentation License</a>. (See <b><a class='internal' href="http://en.wikipedia.org/wiki/Wikipedia:Copyrights" title="Wikipedia:Copyrights">Copyrights</a></b> for details.) <br /> Wikipedia&reg; is a registered trademark of the <a href="http://www.wikimediafoundation.org">Wikimedia Foundation, Inc</a>., a U.S. registered <a class='internal' href="http://en.wikipedia.org/wiki/501%28c%29#501.28c.29.283.29" title="501(c)(3)">501(c)(3)</a> <a href="http://wikimediafoundation.org/wiki/Deductibility_of_donations">tax-deductible</a> <a class='internal' href="http://en.wikipedia.org/wiki/Non-profit_organization" title="Non-profit organization">nonprofit</a> <a href="http://en.wikipedia.org/wiki/Charitable_organization" title="Charitable organization">charity</a>.<br /></li>
+				<li id="privacy"><a href="http://wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+				<li id="about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+				<li id="disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served by srv86 in 0.078 secs. --></body></html>
