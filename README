@@ -1,7 +1,13 @@
+This code is released under the MIT (BSD) license -- the full text of the
+license is in the LICENSE file.
+
 Some string manipulation routines for Python. I expect these mostly to be
 oriented at processing things like HTML and user inputted text.
 
-Right now this just includes an escape function for HTML-escaping text. From my
+This just includes an escape function for HTML-escaping text. From my
 measurements this is not significantly faster than cgi.escape for str object
 (which isn't too surprising, considering how highly optimized the replace
 method of str objects is) but it is 2x to 4x faster on unicode strings.
+
+I've also included a linkify function (which only works on unicode at the
+moment).
