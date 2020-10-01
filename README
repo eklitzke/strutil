@@ -10,4 +10,4 @@ measurements this is not significantly faster than cgi.escape for str object
 method of str objects is) but it is 2x to 4x faster on unicode strings.
 
 I've also included a linkify function (which only works on unicode at the
-moment).
+moment and will be updated soon).
